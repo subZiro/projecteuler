@@ -1,4 +1,4 @@
 Tasks from https://projecteuler.net.
 Translation http://euler.jakumo.org
   
-Problem 2 - Even Fibonacci numbers
+Task 2 - Even Fibonacci numbers
