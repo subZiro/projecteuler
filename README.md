@@ -1,1 +1,1 @@
-# projecteluer
+# task project euler
