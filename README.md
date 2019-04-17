@@ -9,3 +9,14 @@ Task 3 - Largest prime factor
 
 Task 4 - Largest palindrome product
 
+Task 5 - Smallest multiple
+
+Task 6 - Sum square difference
+
+Task 7 - 
+
+Task 8 - 
+
+Task 9 - 
+
+Task 10 - 

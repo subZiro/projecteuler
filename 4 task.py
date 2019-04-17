@@ -14,7 +14,6 @@ __________________
 
 def f_isPalindrom(x):
 	return str(x) == str(x)[::-1]
-
 def f_maxPalindrom():
 	max_pal = 0
 	for i in range(500, 1000):
