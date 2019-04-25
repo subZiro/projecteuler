@@ -13,10 +13,10 @@ Task 5 - Smallest multiple
 
 Task 6 - Sum square difference
 
-Task 7 - 
+Task 7 - 10001st prime
 
-Task 8 - 
+Task 8 - Largest product in a series
 
-Task 9 - 
+Task 9 - Special Pythagorean triplet
 
-Task 10 - 
+Task 10 - Summation of primes
