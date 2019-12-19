@@ -32,7 +32,7 @@ for i in range(3, 10000000):
 	if sum_elem == i:
 		sum_reslt += sum_elem
 
-print(sum_reslt)
+print(sum_reslt)    #40730
 
 
 
