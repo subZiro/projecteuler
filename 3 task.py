@@ -24,6 +24,5 @@ def f_list_smpl_div(x):
 a_inpt = 600851475143
 
 max_elem = f_list_smpl_div(a_inpt)
-max_elem.reverse()
-print(max_elem[0])
 
+print(max(max_elem))   #6857
