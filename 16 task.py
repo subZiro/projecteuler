@@ -12,4 +12,4 @@ user_input = 1000
 x = str(2 ** user_input)  
 x_list = [int(elem) for elem in x]
 
-print(sum(x_list))
+print(sum(x_list))   # 1366

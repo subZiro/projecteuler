@@ -67,8 +67,7 @@ def f_MAX_proizv(n_number):
 			proizvMAX = f_proizvedenie(i, i + n_number)
 	return proizvMAX
 	
-print(f_MAX_proizv(13))
-
+print(f_MAX_proizv(13))   #23514624000
 
 
 

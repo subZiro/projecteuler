@@ -12,7 +12,7 @@ ________________
 """
 
 size_elmnts = 1000
-final_sum = 0
 
 list_elem_sum = [x for x in range(1, size_elmnts) if x % 3 == 0 or x % 5 == 0]
-print(sum(list_elem_sum))
+
+print(sum(list_elem_sum))   #233168

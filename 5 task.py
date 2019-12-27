@@ -29,7 +29,4 @@ while True:
 	if f_Nom(i_start):
 		break
 
-print(i_start)
-
-
-
+print(i_start)   #232792560

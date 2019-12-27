@@ -78,17 +78,6 @@ for i in range(13, x_input):
 	if len_col > max_k:   
 		i_max, max_k = i, len_col
 
-print(i_max, max_k)  
-
-
-
-
-
-
-
-
-
-
-
+print(i_max, max_k)   #i_max = 837799, max_k = 525
 
 

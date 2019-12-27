@@ -38,5 +38,5 @@ def f_count_weekend(day_start, day_finish):
 day0 = datetime.date(1901, 1, 1)  # стартовая дата 
 dayX = datetime.date(2000, 12, 31)   # финишная дата
 
-print(len(f_count_weekend(day0, dayX)))   # 171 
+print(len(f_count_weekend(day0, dayX)))      # 171 
 

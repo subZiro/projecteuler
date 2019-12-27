@@ -113,31 +113,7 @@ data_in = "37107287533902102798797998220837590246510135740250\
 
 
 
-
-'''
-# создание пустого списка и обнуление суммы элементов
-data_in_str = data_in[:]
-data_sum = 0
-
-# цикл по входным данным ктратностью 50 знаков 
-for i in range(len(data_in_str)//50):
-	data_sum += int(data_in_str[:50])
-	data_in_str = data_in_str[50:]
-
-print(str(data_sum)[:10]) #5537376230
-'''
-
-
-
-
-
-
-
 # генерация списка целочисленых 50-ти знаков из входных данных
 data_list = [int(data_in[-50+x:x]) for x in range(50, len(data_in)+50, 50)]
 
 print(str(sum(data_list))[:10])    #5537376230
-
-
-
-

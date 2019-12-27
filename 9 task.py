@@ -17,14 +17,6 @@ def f_tripl_pifagor(sum_abc):
 	for a in range(2, 500):
 		for b in range(2, 500):
 			if (1000 - a - b)**2 == b*b + a*a:
-				return a, b, 1000 - a - b
+				return a * b * (1000 - a - b)
 
-print('a = %d \nb = %d \nc = %d' % f_tripl_pifagor(1000))
-
-
-
-
-
-
-
-
+print('a*b*c = %d' % f_tripl_pifagor(1000))   # 31875000

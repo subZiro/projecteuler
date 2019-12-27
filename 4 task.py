@@ -22,9 +22,6 @@ def f_maxPalindrom():
 				max_pal = i * j
 	return max_pal
 	
-print(f_maxPalindrom())
+print(f_maxPalindrom())   #906609
 
 
-
-
-	
