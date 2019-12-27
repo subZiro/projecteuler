@@ -11,6 +11,8 @@ ________________
 
 """
 
+
+
 size_elmnts = 1000
 
 list_elem_sum = [x for x in range(1, size_elmnts) if x % 3 == 0 or x % 5 == 0]
