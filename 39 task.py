@@ -17,7 +17,8 @@
 
 
 def f_is_triple(a, b, c):
-	#
+	# функция принимает 3 числа и возвращает True если полученая фигура является прямоугольным треугольником
+	# иначе False
 	if (max(a,b,c) <= (a+b+c) - max(a,b,c)) and \
 	(max(a,b,c)**2 == a**2 + b**2 + c**2 - max(a,b,c)**2):
 		return True
@@ -31,7 +32,7 @@ p_k = 0
 
 
 for p in range(120, 1000):
-	triple = list()
+	triple = []
 
 	for a in range(1, p):
 
@@ -57,6 +58,5 @@ for p in range(120, 1000):
 
 
 
-
-print(p_k, k)
+print(p_k, k)   # 840 9
 
