@@ -4,7 +4,6 @@
 
 """
 _____________________________________
-
 Треугольные, пятиугольные и шестиугольные числа вычисляются по нижеследующим формулам:
 
 Треугольные	 	    Tn=n(n+1)/2	 	    1, 3, 6, 10, 15, ...
@@ -14,7 +13,6 @@ _____________________________________
 
 Найдите следующее треугольное число, являющееся также пятиугольным и шестиугольным.
 """
-
 
 
 def f_triangular_numbers():
@@ -41,20 +39,13 @@ def f_hexagonal_numbers():
 		yield p
 		n += 1
 
-
 from itertools import islice
-
 
 triple_num_list = list(islice(f_triangular_numbers(), 1000000))
 pentas_num_list = list(islice(f_pentagonal_numbers(), 1000000))
 hexa_num_list = list(islice(f_hexagonal_numbers(), 1000000))
 
-
 for elem in triple_num_list[200:]:
 	if elem in pentas_num_list and elem in hexa_num_list:
 		break
 print(elem)   # 1533776805
-
-
-
-
