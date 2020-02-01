@@ -33,12 +33,11 @@ def f_is_abundant(n):
 			triangle_list.append(i)
 			triangle_list.append(int(n/i))
 	return (sum(triangle_list) - n) > n 
-
+	
 
 def main():
 	#список избыточных чисел
 	abundants_list = [i for i in range(1, 28123) if f_is_abundant(i)]
-	print('list ok')
 	r_list = []
 	for i in range(1, 28123):
 		for elem in abundants_list:
