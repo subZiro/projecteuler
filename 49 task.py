@@ -29,9 +29,34 @@ def f_issimple_list(n):
 	return simp_list
 
 
+def f_diff_of_permutat(array):
+	'''функция принимает массив и возвращает конкатенированную строку элементов если они 
+	образуют возрастающую арифметическую прогрессию
+	'''
+	if len(array) < 3:
+		return False
+	array.sort()
+	for i in range(len(array)):
+		for j in range(i+1, len(array)):
+
+			d = array[j] - array[i]
+			if array[j] + d in array:
+				return str(array[i]) + str(array[j]) + str(array[j]+d)
+	return False
+
+
 def main():
 	p_list = f_issimple_list(10000)
 
+	for elem in p_list:
+	    p = permutations(str(elem), 4)
+	    a = [int(''.join(x)) for x in p]  # создание списка перестановок простого числа
+	    a = list(set([x for x in a if x in p_list]))  # удаление всех повторений перестановок и не простых чисел
+
+	    if f_diff_of_permutat(a):
+	   		print(f_diff_of_permutat(a))
+	   		break
+
 
 if __name__ == '__main__':
-	main()
+	main()   # 296962999629
