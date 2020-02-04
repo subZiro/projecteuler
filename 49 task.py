@@ -13,6 +13,8 @@ ________________________
 Какое 12-значное число образуется, если объединить три члена этой прогрессии?
 """
 
+from itertools import permutations
+
 
 def f_issimple_list(n):
 	'''функция принимает число и возвращает сумму простых первых n-чисел 
@@ -28,7 +30,7 @@ def f_issimple_list(n):
 
 
 def main():
-	pass
+	p_list = f_issimple_list(10000)
 
 
 if __name__ == '__main__':
