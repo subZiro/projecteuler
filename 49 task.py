@@ -13,6 +13,20 @@ ________________________
 Какое 12-значное число образуется, если объединить три члена этой прогрессии?
 """
 
+
+def f_issimple_list(n):
+	'''функция принимает число и возвращает сумму простых первых n-чисел 
+	создается список длинной n-элементов 
+	'''
+	simp_list = list(range(n))
+	simp_list[1] = 0   # 1-не является простым числом, обнуляем
+	for i in simp_list[2:]:   
+		for j in range(i+i, len(simp_list), i):
+			simp_list[j] = 0    # обнуляем элементы кратные i, начиная с i*2 элемента
+	simp_list = [elem for elem in simp_list if elem > 1487 and elem < 10000]
+	return simp_list
+
+
 def main():
 	pass
 
