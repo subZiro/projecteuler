@@ -29,3 +29,10 @@ def f_issimple_list(n):
 	simp_list = [elem for elem in simp_list if elem and elem < 1000000]
 	return simp_list
 
+
+def main():
+	pass
+
+
+if __name__ == '__main__':
+	main()
