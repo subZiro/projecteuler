@@ -31,7 +31,21 @@ def f_issimple_list(n):
 
 
 def main():
-	pass
+	p_list = f_issimple_list(1000000)
+	result_list = []
+	r_sum = 0 
+	i = 0 
+
+	while r_sum < 1000000:
+		r_sum += p_list[i]
+		result_list.append(r_sum)
+		i += 1
+
+	result_list.sort(reverse=True)
+	for elem in result_list:
+		if elem in p_list:
+			print(elem)    # 958577
+			break
 
 
 if __name__ == '__main__':
