@@ -31,13 +31,13 @@ Translation http://euler.jakumo.org
 	Task 28 - Number spiral diagonals
 	Task 29 - Distinct powers
 	Task 30 - Digit fifth powers
-	Task 31 - 
-	Task 32 - 
-	Task 33 - 
-	Task 34 - 
-	Task 35 - 
-	Task 36 - 
-	Task 37 - 
+	Task 31 - Coin sums
+	Task 32 - Pandigital products	
+	Task 33 - Digit cancelling fractions
+	Task 34 - Digit factorials
+	Task 35 - Circular primes
+	Task 36 - Double-base palindromes
+	Task 37 - Truncatable primes
 	Task 38 - 
 	Task 39 - 
 	Task 40 - 
