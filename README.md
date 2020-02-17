@@ -41,7 +41,7 @@ Task 19 - Counting Sundays
 
 Task 20 - Factorial digit sum
 
-Task 21 - 
+Task 21 - Amicable numbers
 
 Task 22 - 
 
