@@ -45,21 +45,21 @@ Task 21 - Amicable numbers
 
 Task 22 - 
 
-Task 23 - 
+Task 23 - Non-abundant sums
 
-Task 24 - 
+Task 24 - Lexicographic permutations
 
-Task 25 - 
+Task 25 - 1000-digit Fibonacci number
 
-Task 26 - 
+Task 26 - Reciprocal cycles
 
 Task 27 - 
 
-Task 28 - 
+Task 28 - Number spiral diagonals
 
-Task 29 - 
+Task 29 - Distinct powers
 
-Task 30 - 
+Task 30 - Digit fifth powers
 
 Task 31 - 
 
