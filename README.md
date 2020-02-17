@@ -41,3 +41,62 @@ Task 19 - Counting Sundays
 
 Task 20 - Factorial digit sum
 
+Task 21 - 
+
+Task 22 - 
+
+Task 23 - 
+
+Task 24 - 
+
+Task 25 - 
+
+Task 26 - 
+
+Task 27 - 
+
+Task 28 - 
+
+Task 29 - 
+
+Task 30 - 
+
+Task 31 - 
+
+Task 32 - 
+
+Task 33 - 
+
+Task 34 - 
+
+Task 35 - 
+
+Task 36 - 
+
+Task 37 - 
+
+Task 38 - 
+
+Task 39 - 
+
+Task 40 - 
+
+Task 41 - 
+
+Task 42 - 
+
+Task 43 - 
+
+Task 44 - 
+
+Task 45 - 
+
+Task 46 - 
+
+Task 47 - 
+
+Task 48 - 
+
+Task 49 - 
+
+Task 50 - 
