@@ -38,16 +38,16 @@ Translation http://euler.jakumo.org
 	Task 35 - Circular primes
 	Task 36 - Double-base palindromes
 	Task 37 - Truncatable primes
-	Task 38 - 
-	Task 39 - 
-	Task 40 - 
-	Task 41 - 
-	Task 42 - 
-	Task 43 - 
-	Task 44 - 
-	Task 45 - 
-	Task 46 - 
-	Task 47 - 
-	Task 48 - 
-	Task 49 - 
-	Task 50 - 
+	Task 38 - Pandigital multiples
+	Task 39 - Integer right triangles
+	Task 40 - Champernowne's constant
+	Task 41 - Pandigital prime
+	Task 42 - Coded triangle numbers
+	Task 43 - Sub-string divisibility
+	Task 44 - Pentagon numbers
+	Task 45 - Triangular, pentagonal, and hexagonal	
+	Task 46 - Goldbach's other conjecture
+	Task 47 - Distinct primes factors
+	Task 48 - Self powers
+	Task 49 - Prime permutations
+	Task 50 - Consecutive prime sum
