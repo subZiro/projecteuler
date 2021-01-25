@@ -2,27 +2,43 @@
 ## [Project Euler](https://projecteuler.net/) | [(ru translation)](http://euler.jakumo.org)
 
 [Task 1](https://github.com/subZiro/projecteuler/blob/master/1%20task.py) - [Multiples of 3 and 5](https://projecteuler.net/problem=1)
-  
-Task 1 - Multiples of 3 and 5
-	
-Task 2 - Even Fibonacci numbers
-Task 3 - Largest prime factor
-Task 4 - Largest palindrome product  
-Task 5 - Smallest multiple 
-Task 6 - Sum square difference 
-Task 7 - 10001st prime
-Task 8 - Largest product in a series
-Task 9 - Special Pythagorean triplet
-Task 10 - Summation of primes
-Task 11 - 
-Task 12 - Highly divisible triangular number
-Task 13 - Large sum
-Task 14 - Longest Collatz sequence
-Task 15 - Lattice paths
-Task 16 - Power digit sum
-Task 17 - Number letter counts
-Task 18 - 
-Task 19 - Counting Sundays
+
+[Task 2](https://github.com/subZiro/projecteuler/blob/master/2%20task.py) - [Even Fibonacci numbers](https://projecteuler.net/problem=2) 
+
+[Task 3](https://github.com/subZiro/projecteuler/blob/master/3%20task.py) - [Largest prime factor](https://projecteuler.net/problem=3) 
+
+[Task 4](https://github.com/subZiro/projecteuler/blob/master/4%20task.py) - [Largest palindrome product](https://projecteuler.net/problem=4) 
+
+[Task 5](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Smallest multiple](https://projecteuler.net/problem=5) 
+
+[Task 6](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Sum square difference](https://projecteuler.net/problem=6) 
+
+[Task 7](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [10001st prime](https://projecteuler.net/problem=7)
+
+[Task 8](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Largest product in a series](https://projecteuler.net/problem=8) 
+
+[Task 9](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Special Pythagorean triplet](https://projecteuler.net/problem=9)
+
+[Task 10](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Summation of primes](https://projecteuler.net/problem=10)
+
+[Task 11] - [Largest product in a grid](https://projecteuler.net/problem=11) 
+
+[Task 12](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Highly divisible triangular number](https://projecteuler.net/problem=12) 
+
+[Task 13](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Large sum](https://projecteuler.net/problem=13) 
+
+[Task 14](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Longest Collatz sequence](https://projecteuler.net/problem=14) 
+
+[Task 15](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Lattice paths](https://projecteuler.net/problem=15) 
+
+[Task 16](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Power digit sum](https://projecteuler.net/problem=16) 
+
+[Task 17](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Number letter counts](https://projecteuler.net/problem=17) 
+
+[Task 18] - [Maximum path sum I](https://projecteuler.net/problem=18) 
+
+[Task 19](https://github.com/subZiro/projecteuler/blob/master/5%20task.py) - [Counting Sundays](https://projecteuler.net/problem=19) 
+
 Task 20 - Factorial digit sum
 Task 21 - Amicable numbers
 Task 22 - 
