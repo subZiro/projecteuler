@@ -47,32 +47,56 @@
 
 [Task 23](https://github.com/subZiro/projecteuler/blob/master/23%20task.py) - [Non-abundant sums](https://projecteuler.net/problem=23)
 
-
-
 [Task 24](https://github.com/subZiro/projecteuler/blob/master/24%20task.py) - [Lexicographic permutations](https://projecteuler.net/problem=24)
+
 [Task 25](https://github.com/subZiro/projecteuler/blob/master/25%20task.py) - [1000-digit Fibonacci number](https://projecteuler.net/problem=25)
+
 [Task 26](https://github.com/subZiro/projecteuler/blob/master/26%20task.py) - [Reciprocal cycles](https://projecteuler.net/problem=26)
-[Task 27] - [](https://projecteuler.net/problem=27)
+
+[Task 27] - [Quadratic primes](https://projecteuler.net/problem=27)
+
 [Task 28](https://github.com/subZiro/projecteuler/blob/master/28%20task.py) - [Number spiral diagonals](https://projecteuler.net/problem=28)
+
 [Task 29](https://github.com/subZiro/projecteuler/blob/master/29%20task.py) - [Distinct powers](https://projecteuler.net/problem=29)
+
 [Task 30](https://github.com/subZiro/projecteuler/blob/master/30%20task.py) - [Digit fifth powers](https://projecteuler.net/problem=30)
+
 [Task 31](https://github.com/subZiro/projecteuler/blob/master/31%20task.py) - [Coin sums](https://projecteuler.net/problem=31)
+
 [Task 32](https://github.com/subZiro/projecteuler/blob/master/32%20task.py) - [Pandigital products](https://projecteuler.net/problem=32)
+
 [Task 33](https://github.com/subZiro/projecteuler/blob/master/33%20task.py) - [Digit cancelling fractions](https://projecteuler.net/problem=33)
+
 [Task 34](https://github.com/subZiro/projecteuler/blob/master/34%20task.py) - [Digit factorials](https://projecteuler.net/problem=34)
+
 [Task 35](https://github.com/subZiro/projecteuler/blob/master/35%20task.py) - [Circular primes](https://projecteuler.net/problem=35)
+
 [Task 36](https://github.com/subZiro/projecteuler/blob/master/36%20task.py) - [Double-base palindromes](https://projecteuler.net/problem=36)
+
 [Task 37](https://github.com/subZiro/projecteuler/blob/master/37%20task.py) - [Truncatable primes](https://projecteuler.net/problem=37)
+
 [Task 38](https://github.com/subZiro/projecteuler/blob/master/38%20task.py) - [Pandigital multiples](https://projecteuler.net/problem=38)
+
 [Task 39](https://github.com/subZiro/projecteuler/blob/master/39%20task.py) - [Integer right triangles](https://projecteuler.net/problem=39)
+
 [Task 40](https://github.com/subZiro/projecteuler/blob/master/40%20task.py) - [Champernowne's constant](https://projecteuler.net/problem=40)
+
 [Task 41](https://github.com/subZiro/projecteuler/blob/master/41%20task.py) - [Pandigital prime](https://projecteuler.net/problem=41)
+
 [Task 42](https://github.com/subZiro/projecteuler/blob/master/42%20task.py) - [Coded triangle numbers](https://projecteuler.net/problem=42)
+
 [Task 43](https://github.com/subZiro/projecteuler/blob/master/43%20task.py) - [Sub-string divisibility](https://projecteuler.net/problem=43)
+
 [Task 44](https://github.com/subZiro/projecteuler/blob/master/44%20task.py) - [Pentagon numbers](https://projecteuler.net/problem=44)
+
 [Task 45](https://github.com/subZiro/projecteuler/blob/master/45%20task.py) - [Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)
+
 [Task 46](https://github.com/subZiro/projecteuler/blob/master/46%20task.py) - [Goldbach's other conjecture](https://projecteuler.net/problem=46)
+
 [Task 47](https://github.com/subZiro/projecteuler/blob/master/47%20task.py) - [Distinct primes factors](https://projecteuler.net/problem=47)
+
 [Task 48](https://github.com/subZiro/projecteuler/blob/master/48%20task.py) - [Self powers](https://projecteuler.net/problem=48)
+
 [Task 49](https://github.com/subZiro/projecteuler/blob/master/49%20task.py) - [Prime permutations](https://projecteuler.net/problem=49)
+
 [Task 50](https://github.com/subZiro/projecteuler/blob/master/50%20task.py) - [Consecutive prime sum](https://projecteuler.net/problem=50)
