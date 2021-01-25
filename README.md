@@ -1,7 +1,13 @@
-Tasks from https://projecteuler.net.
-Translation http://euler.jakumo.org
+
+## [Project Euler](https://projecteuler.net/) | [(ru translation)](http://euler.jakumo.org)
+
   
+  
+ 
 	Task 1 - Multiples of 3 and 5
+	
+	[(Task 1)](https://github.com/subZiro/projecteuler/blob/master/1%20task.py) - [Multiples of 3 and 5](https://projecteuler.net/problem=1)
+	
 	Task 2 - Even Fibonacci numbers
 	Task 3 - Largest prime factor
 	Task 4 - Largest palindrome product  
